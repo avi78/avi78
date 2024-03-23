@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Understanding end-to-end development**
 
-- 🌱 I’m currently learning **AWS Cloud, Javascript, Hugging face libraries**
+- 🌱 I’m currently learning **React Native, Next Js, AI ML**
 
-- 👯 I’m looking to collaborate on **AI, Web development, Cloud**
+- 👯 I’m looking to collaborate on **Development, ML**
 
-- 🤝 I’m looking for help with **Cloud projects**
+- 🤝 I’m looking for help with **ML projects**
 
 - 👨‍💻 All of my projects are available at [https://aviternal20.wixsite.com/akruti](https://aviternal20.wixsite.com/akruti)
 
-- 💬 Ask me about **Computer networks, Artificial Intelligence, cloud computing, Web development**
+- 💬 Ask me about **Core Computer, Artificial Intelligence, Web development**
 
 - 📫 How to reach me **aviternal20@gmail.com**
 
