@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akruti Sarangi a.k.a aviternal</h1>
-<h3 align="center">A passionate student developer from India</h3>
+<h3 align="center">A dedicated learner from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi78" alt="avi78" /></a> </p>
 
