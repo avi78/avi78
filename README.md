@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://aviternal20.wixsite.com/akruti](https://aviternal20.wixsite.com/akruti)
 
-- 💬 Ask me about **Core Computer, Artificial Intelligence, Web development**
-
 - 📫 How to reach me **aviternal20@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/akruti-sarangi-04377b22a/](https://www.linkedin.com/in/akruti-sarangi-04377b22a/)
