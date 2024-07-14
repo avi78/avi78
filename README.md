@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi78" alt="avi78" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://aviternal20.wixsite.com/akruti](https://aviternal20.wixsite.com/akruti)
 
 - 📫 How to reach me **aviternal20@gmail.com**
 
