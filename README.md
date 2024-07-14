@@ -3,13 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi78" alt="avi78" /></a> </p>
 
-- 🔭 I’m currently working on **Understanding end-to-end development**
-
-- 🌱 I’m currently learning **React Native, Next Js, AI ML**
-
-- 👯 I’m looking to collaborate on **Development, ML**
-
-- 🤝 I’m looking for help with **ML projects**
 
 - 👨‍💻 All of my projects are available at [https://aviternal20.wixsite.com/akruti](https://aviternal20.wixsite.com/akruti)
 
